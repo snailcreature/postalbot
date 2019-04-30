@@ -1,1 +1,0 @@
-This is where emails are sorted to ready for distribution

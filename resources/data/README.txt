@@ -1,0 +1,1 @@
+This is where the data needed to run the bot is kept

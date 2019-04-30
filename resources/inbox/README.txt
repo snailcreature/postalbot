@@ -1,0 +1,1 @@
+This is where emails are downloaded to ready for sorting

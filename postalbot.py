@@ -189,7 +189,6 @@ if __name__ == "__main__":
     loadAccounts("resources/data/accounts.json")
     addAccount("sam", "sam.drage@mac.com")
     addAccount("tom", "thomasapter@btinternet.com")
-    addAccount("harvey", "harvey@harveyaitken.com")
     print("Accounts made")
     saveAccounts("resources/data/accounts.json")
     print("Accounts saved")
